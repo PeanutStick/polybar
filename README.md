@@ -1,2 +1,2 @@
 # polybar
-![](https://i.imgur.com/li3FrLE.jpg)
+![](https://i.imgur.com/goevwOE.jpg)
